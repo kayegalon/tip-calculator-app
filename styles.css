@@ -226,7 +226,7 @@ input:hover, .percent:hover, .reset:hover {
 	.card {
 		display: flex;
 		flex-direction: column;
-		width: 20rem;
+		width: 25rem;
 		margin-top: 2rem;
 	}
 	
