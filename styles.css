@@ -235,6 +235,18 @@ input:hover, .percent:hover, .reset:hover {
 	}
 	
 	.percent::placeholder {
-		font-size: 15px;
+		font-size: 13px;
+	}
+	
+	.tip-amount {
+		margin-bottom: 1.5rem;
+	}
+	
+	.heading, .subheading {
+		font-size: 13px;
+	}
+	
+	.amount {
+		font-size: 35px;
 	}
 }
